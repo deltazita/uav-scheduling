@@ -3,8 +3,8 @@ Migration of gforge.inria.fr website
 
 **Related papers:**
 
-[Energy efficient mobile target tracking using flying drones](#ant)\
- [Cost-efficient target coverage using UAVs](#journal)
+["Energy efficient mobile target tracking using flying drones"](http://www.sciencedirect.com/science/article/pii/S1877050913006248)\
+ ["Optimal drone placement and cost-efficient target coverage"](https://deltazita.github.io/files/PointCoverage.pdf)
 
 **Input scenarios (targets with random positions):**
 
@@ -26,9 +26,6 @@ Migration of gforge.inria.fr website
     realistic).
 
 * * * * *
-
-Energy efficient mobile target tracking using flying drones
------------------------------------------------------------
 
 ### Source code
 
