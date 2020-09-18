@@ -1,4 +1,4 @@
-# uav-scheduling
+# UAV target coverage
 Migration of gforge.inria.fr website
 
 **Related papers:**
@@ -44,8 +44,8 @@ Check Perl scripts
 
 #### Videos
 
-["Attractors" mobiliry model](videos/attractors.ogv)\
-["Random Way Point" mobiliry model](videos/rwp.ogv)\
-["Random" mobiliry model](videos/attractors.ogv)\
-["Random" mobiliry model with call-n-go's](videos/las-real.ogv)\
+["Attractors" mobility model](videos/attractors.ogv)\
+["Random Way Point" mobility model](videos/rwp.ogv)\
+["Random" mobility model](videos/attractors.ogv)\
+["Random" mobility model with call-n-go's](videos/las-real.ogv)\
 
