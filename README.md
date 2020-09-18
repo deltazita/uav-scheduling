@@ -4,13 +4,13 @@ Migration of gforge.inria.fr website
 **Related papers:**
 
 ["Energy efficient mobile target tracking using flying drones"](http://www.sciencedirect.com/science/article/pii/S1877050913006248)\
- ["Optimal drone placement and cost-efficient target coverage"](https://deltazita.github.io/files/PointCoverage.pdf)
+["Optimal drone placement and cost-efficient target coverage"](https://deltazita.github.io/files/PointCoverage.pdf)
 
 **Input scenarios (targets with random positions):**
 
--   [10000-90000 m\^2 terrain size, 100 events](scenarios100ev.tar.gz)
--   [40000 m\^2 terrain size, 25-175 events](scenarios20ts.tar.gz)
--   [10000 m\^2 terrain size, 10-50 events](scenarios10ts.tar.gz)
+-   [10000-90000 m\^2 terrain size, 100 events](input_files/scenarios100ev.tar.gz)
+-   [40000 m\^2 terrain size, 25-175 events](input_files/scenarios20ts.tar.gz)
+-   [10000 m\^2 terrain size, 10-50 events](input_files/scenarios10ts.tar.gz)
 
 **Energy consumption models:**
 
@@ -36,14 +36,16 @@ Check Perl scripts
 -   Formula 10 (right part): h\_u+h\_{u'} \> dist(u,u')\*tan\\theta'
 -   the same at line 9 of Algorithm 1
 
-### Animated examples with 100 events and 90K sq.m. terrain size
-
 #### Animated pictures
 
-["Attractors" mobility model](attractors-500.gif)\
- ["RWP" mobility model (fast animation)](rwp.gif)\
- ["Random" mobility model](random-500.gif)\
+["Attractors" mobility model](animated_pictures/attractors-500.gif)\
+["RWP" mobility model (fast animation)](animated_pictures/rwp.gif)\
+["Random" mobility model](animated_pictures/random-500.gif)\
 
 #### Videos
 
-Check ogv files
+["Attractors" mobiliry model](videos/attractors.ogv)\
+["Random Way Point" mobiliry model](videos/rwp.ogv)\
+["Random" mobiliry model](videos/attractors.ogv)\
+["Random" mobiliry model with call-n-go's](videos/las-real.ogv)\
+
